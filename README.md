@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Research and Innovation.
 - 🌱 I’m currently learning Machine Learning, Python
 - 💞️ I’m looking to collaborate on EDA python 
-- 📫 How to reach me contact at my E-mail: ashutoshyaduvansidm@gmail.com
+- 📫  contact at my E-mail: ashutoshyaduvansidm@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
